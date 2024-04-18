@@ -19,7 +19,7 @@ Faça suas alterações e commit (git commit -am 'Adicionando nova funcionalidad
 Faça um push para a branch (git push origin minha-contribuicao)
 Envie um pull request
 Contato
-Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, sinta-se à vontade para abrir uma issue ou me contatar diretamente pelo meu email: seu@email.com
+Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, sinta-se à vontade para abrir uma issue ou me contatar diretamente pelo meu Linkedin: www.linkedin.com/in/gmvitorsantos
 
 Licença
 Este projeto está licenciado sob a MIT License, o que significa que você é livre para usar, modificar e distribuir o código, desde que inclua a licença original. Veja o arquivo LICENSE para mais detalhes.
@@ -46,7 +46,8 @@ Make your changes and commit (git commit -am 'Adding new functionality')
 Push to the branch (git push origin meu-contribuicao)
 Submit a pull request
 Contact
-If you have any questions, suggestions or just want to get in touch, feel free to open an issue or contact me directly via email: seu@email.com
+If you have any questions, suggestions or just want to get in touch, feel free to open an issue or contact me directly via Linkedin: www.linkedin.com/in/gmvitorsantos
+
 
 License
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code as long as you include the original license. See the LICENSE file for more details.
