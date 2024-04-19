@@ -1,4 +1,4 @@
-# matematica
+# matemática
 Projeto: Matemática
 Este projeto de matemática é uma iniciativa para aplicar de forma prática meus estudos e revisões de matemática. O objetivo é explorar desde os conceitos mais básicos até os mais complexos.
 
